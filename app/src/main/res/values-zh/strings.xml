@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">旅游app</string>
+    <string name="main">首页</string>
+    <string name="near">附近</string>
+    <string name="ask">问大家</string>
+    <string name="me">我的</string>
+    <string name="text_camera">相机</string>
+    <string name="text_now_login">正在登陆</string>
+</resources>
